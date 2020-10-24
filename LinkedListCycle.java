@@ -2,7 +2,7 @@ import java.util.*;
 
 public class LinkedListCycle<T> 
 {
-    class ListNode
+    public class ListNode
     {
         T value;
         ListNode next;
